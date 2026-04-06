@@ -18,7 +18,7 @@ Always learning, always testing & breaking systems ethically to build them stron
   - Name : Rafi Al Faied
   - From: Dhaka,Bangladesh
   - Experience in **Red Teaming**, **Networking Security**, **Ethical Hacking**, **Server Maintenance**
-  - Completed : **Cisco Networking Security**, **Google Cybersecurity Certificate**, **SOC**, **CEH Training**, **OSINT & Cyber Crime Investigation**,                              **CompTia (A+ & N+)**, **Digital Forensic**
+  - Certifications : **Cisco Networking Security**, **Google Cybersecurity Certificate**, **SOC**, **CEH Training**, **OSINT & Cyber Crime Investigation**,                              **CompTia (A+ & N+)**, **Digital Forensic**
   - Contact me at: **rafeealfayed50@gmail.com**
 ---
 
